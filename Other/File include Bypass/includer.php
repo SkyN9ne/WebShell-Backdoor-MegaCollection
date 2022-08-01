@@ -1,2 +1,2 @@
 <?php
-	include 'includer.txt';
+	include 'include.php';
